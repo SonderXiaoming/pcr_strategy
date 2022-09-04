@@ -18,6 +18,6 @@
 
 ## 2.我要pr的攻略不属于上面文件夹任何一个分类
 
-1.先去[auto_strategy](https://github.com/SonderXiaoming/auto_strategy)pr代码
+1.先去[auto_strategy](https://github.com/SonderXiaoming/auto_strategy)将你的代码pr
 
-2.然后仿照其他分类进行pr
+2.然后仿照其他分类在这里进行pr
