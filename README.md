@@ -1,6 +1,6 @@
 # pcr_strategy
 
-此为[auto_strategy](https://github.com/SonderXiaoming/auto_strategy)的数据来源，欢迎pr
+## 此为[auto_strategy](https://github.com/SonderXiaoming/auto_strategy)的数据来源，欢迎pr
 
 ------
 
